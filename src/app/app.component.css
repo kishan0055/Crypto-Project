@@ -1,0 +1,19 @@
+.class1
+{
+	 display: block;  
+      margin: 4vw;
+}    
+.class1 .class2
+{
+	background: #2c2c2c;
+  border: 1px solid #2c2c2c;
+  border-radius: 100px;
+  box-shadow: 0px 3px 20px 2px #FF0000;
+  display: block;
+}
+
+.class1 .class2 .class3{
+	color:white;
+	text-align:center;
+}
+
